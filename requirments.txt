@@ -1,0 +1,12 @@
+# Linux Chan AI Requirements
+pygame==2.5.2
+requests==2.31.0
+python-dotenv==1.0.0
+google-generativeai==0.3.1
+gTTS==2.3.2
+PyQt5==5.15.9
+langchain==0.0.315
+langchain-google-genai==0.0.5
+langchain-core==0.1.1
+Pillow==10.0.1
+selenium==4.12.0
